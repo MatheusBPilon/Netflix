@@ -35,7 +35,7 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 Netflix Clone foi feito com o intuito de aprimorar os conhecimentos em React e CSS, de uma forma muito organizada e democrática. 
 
-Este é um projeto desenvolvido durante a live do **[Bonieky Lacerda](https://www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda)**
+Este é um projeto desenvolvido durante a live do **[Bonieky Lacerda](www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda)**
 
 
 ## 📝 License
