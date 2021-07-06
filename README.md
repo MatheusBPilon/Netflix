@@ -41,5 +41,7 @@ Este é um projeto desenvolvido durante a live do **[Bonieky Lacerda](https://ww
 ## 📝 License
 
 Feito com ❤️ pelo **Matheus Pilon**
+<br>
 Direitos de imagem **para Netflix**
+<br>
 Dados pegos do site **Themoviedb.org**
