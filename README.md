@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="Netflix" src=".assets/netflix.png" />
+    <img alt="Netflix" src=".src/assets/netflix.png" />
 </h1>
 
 <br>
